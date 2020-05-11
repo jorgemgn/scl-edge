@@ -8,9 +8,12 @@
     Falling edge       = Neg_PB
 *)
 
+#Aux_PB := #PB;
+
 // Rising edge
 #Pos_PB := #PB AND NOT #Aux_PB;
 
 // Falling edge
 #Neg_PB := NOT #PB AND #Aux_PB;
-#Aux_PB := #PB;
+
+
