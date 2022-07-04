@@ -1,9 +1,3 @@
-# License
-
-<img src="images/license_cc_by-nc-nd.png" width="200"/>
-
-- [More info about CC license](./images/cc-license.png)
-
 # Edge Evaluation in Structured Control Language (SCL)
 
 The following example shows an edge evaluation in SCL.   
